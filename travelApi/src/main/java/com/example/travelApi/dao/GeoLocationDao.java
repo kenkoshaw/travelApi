@@ -12,7 +12,7 @@ public class GeoLocationDao {
         put("69.60.8.207",new GeoLocation("New York","United States", "40.712776", "-74.005974"));
         put("83.202.128.19",new GeoLocation("Paris","France", "48.856613", "2.352222"));
         put("195.211.23.32",new GeoLocation("Moscow","Russia", "55.751244", "37.618423"));
-        put("191.81.100.70",new GeoLocation("Buenos Aires","Argentina", "-34.603722", "2.352222"));
+        put("191.81.100.70",new GeoLocation("Buenos Aires","Argentina", "-34.603722", "-58.381557"));
 
     }};
 
