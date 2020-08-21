@@ -11,6 +11,8 @@ public class CurrencySymbolDao {
         put("INR",new CurrencySymbol("₹"));
         put("USD",new CurrencySymbol("$"));
         put("EUR",new CurrencySymbol("€"));
+        put("ARS",new CurrencySymbol("$"));
+        put("RUB",new CurrencySymbol("₽"));
     }};
 
     public static CurrencySymbol getCurrencySymbol(String currCode) {
